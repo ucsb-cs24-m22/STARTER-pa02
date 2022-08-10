@@ -1,6 +1,5 @@
-// Spring'22
-// Instructor: Diba Mirza
 // Student name: 
+//
 #include <iostream>
 #include <fstream>
 #include <string>
